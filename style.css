@@ -1,0 +1,70 @@
+.logo > img
+{
+    height: 120px;
+    margin-left: 10px;
+}
+.title 
+{
+    margin-left: 160px;
+    margin-top: -140px;
+}
+.menu
+{
+    margin-left: 120px;
+}
+.menu > ul
+{
+    list-style-type: none;
+}
+.menu > ul > a > li
+{
+    display: inline;
+    margin-right: 100px;
+}
+.address
+{
+    margin-left: 160px;
+}
+.footer
+{
+   text-align: center;
+}
+.course
+{
+    margin-left: 160px;
+}
+.course > table 
+{
+    width: 700px;
+    height: 200px;
+    background-color: yellow;
+    border: solid;
+}
+td
+{
+    border: solid;
+}
+th
+{
+    border:solid;
+    border-color: red;
+    background-color: aquamarine;
+}
+.image
+{
+ margin-left: 160px;
+}
+.image > img 
+{
+    height: 200px;
+    width: 300px;
+}
+.contact
+{
+    margin-left: 120px;
+}
+a
+{
+    text-decoration: none;
+    background-color: aqua;
+}
